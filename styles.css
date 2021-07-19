@@ -95,7 +95,7 @@ h1 {
 }
 
 .circle {
-  background: linear-gradient(90deg, #16D9E3 0%, #30C7EC 47%, #46AEF7 100%);
+  background: linear-gradient(90deg, rgba(22, 217, 227, 0.445) 0%, rgba(48, 198, 236, 0.479) 47%, rgba(70, 173, 247, 0.466) 100%);
   position: absolute;
   border-radius: 50%;
   cursor: pointer;
